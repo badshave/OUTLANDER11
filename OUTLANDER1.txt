@@ -1,0 +1,33 @@
+
+#EXTINF:-1,Outlander S06E01
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/403728.mp4
+#EXTINF:-1,Outlander S06E02
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/409163.mp4
+#EXTINF:-1,Outlander S06E03
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/398799.mp4
+#EXTINF:-1,Outlander S06E04
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/400350.mp4
+#EXTINF:-1,Outlander S06E05
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/401367.mp4
+#EXTINF:-1,Outlander S06E06
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/396937.mp4
+#EXTINF:-1,Outlander S06E07
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/409511.mp4
+#EXTINF:-1,Outlander S06E08
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/402250.mp4
+#EXTINF:-1,Outlander S07E01
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/439204.mkv
+#EXTINF:-1,Outlander S07E02
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/439202.mkv
+#EXTINF:-1,Outlander S07E03
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/439206.mkv
+#EXTINF:-1,Outlander S07E04
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/439210.mkv
+#EXTINF:-1,Outlander S07E05
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/439208.mkv
+#EXTINF:-1,Outlander S07E06
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/439209.mkv
+#EXTINF:-1,Outlander S07E07
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/439471.mkv
+#EXTINF:-1,Outlander S07E08
+https://play.tubeyrack.com:443/series/i.mjames.li.q.ui.n@gmail.com/GMJ1/439753.mkv
